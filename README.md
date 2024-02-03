@@ -1,2 +1,2 @@
 # consultations-public
-A repo to save the info about the consultants 
+This repo only shows the information that I can pulibsh publicly, the surnames and the details about the topics will stay confidential.
