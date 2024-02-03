@@ -8,7 +8,6 @@ Below is a list of consultation projects, along with brief descriptions:
 
 ### Time Series Analysis - D.KS
 - **Description:** Project dealing with time series analysis in a Saudi Arabian context
-- 
 ### ADHD Study - Em.Eg
 - **Description:** Research consultation on ADHD studies using machine learning.
 
