@@ -1,4 +1,4 @@
-# Mentorship-public
+# consultancy-portfolio
 Please note that this repository only displays information that can be publicly shared. In respect to confidentiality agreements and privacy concerns, specific details about the consultation topics, as well as the surnames of individuals or entities involved, are not disclosed. This approach ensures the privacy and confidentiality of all parties involved in these consultations while allowing a glimpse into the diverse range of projects and applications in the field of machine learning.
 
 ## Resources
